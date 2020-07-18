@@ -1,0 +1,281 @@
+[
+	{"Name":"Apple",
+		"Stages":[]
+	},
+	{"Name":"Orange",
+		"Stages":[]
+	},
+	{"Name":"Tomato",
+		"Stages":[
+			{"Stage": "Seedling Stage",
+				"Time": 21,
+				"Tasks": [
+					{
+					"Number": 1,
+					"Heading": "Planting The Seed",
+					"Description": "When a seed starts to grow, we say it germinates. The cotyledons store food for the baby plant inside the seed. When the seed starts to germinate, the first thing to grow is the main root. The seed's growing conditions usually need to be damp, warm, and dark, like springtime soil. A dry seed will stay dormant until it soaks in some water, then it will start to germinate.\n\n There are two different types of seeds: dicotyledons and monocotyledons. Dicotyledons are seeds with two parts and monocotyldons have only one part. You can call theses seed types dicots and monocots for short.\n \n An example of a dicot would be a bean seed. A bean seed that has been soaked in water has a soft outer covering. This outer covering is the seed coat. Inside of the seed would be a tiny plant called the embryo. The two large parts of the seed are called the cotyledons. The cotyledons are stored food that the young plant will use while it is growing.\n \n Monocots are seeds that have only one cotyledon, such as the corn seed. Monocots have a thicker seed coat that does not slip off easily like the bean seed. The corn seed does not split open like the bean seed, it stays in one piece. One cotyldeon surrounds the embryo and is called the endosperm.",
+					"Pictures": [
+						"http://www2.york.psu.edu/~sg3/ist311/games/team3/images/phase1.png",
+						"http://www2.york.psu.edu/~sg3/ist311/games/team3/images/seeds.png"
+					]
+					},
+					{
+						"Number": 2,
+						"Heading": "Growing Medium",
+						"Description": "It’s not necessary to use your powerful HPS or LED the first 10-14 days. CFL’s with a blue light spectrum (daylight/coolwhite) will get you very good results. Either built your own light fixture using T5/T8 sockets or buy 23-30W CFL’s with the standard European E27 lamp socket. Compare different bulbs and choose the ones with highest lumen output.",
+						"Pictures": [
+							"https://static.manitobacooperator.ca/wp-content/uploads/2017/12/young-plant_ThinkstockPhoto.jpg",
+							"https://www.planetnatural.com/wp-content/uploads/2012/12/plant-lighting-1.jpg"
+						]
+						},
+	
+					{
+					"Number": 3,
+					"Heading": "Find Pots For Feminized Seeds",
+					"Description": "Feminized- and regular tomato varieties give growers the possibility do decide when the vegetation period ends, and the flowering period starts. This is why transplanting “feminized” seedlings is not such a big concern, in contrast to autoflowering strains. When a few days are lost due to stress recovery of the plant, growers simply increase the time-span of the vegetation period and compensates the loss of growth. Internet forums and grow reports can help to get you an idea what works best in terms of pot size(s) matching your setup.",
+					"Pictures": [
+						"https://sensiseeds.com/blog/wp-content/uploads/2018/02/outdoor-cannabis-sensiseeds-6-1024x540.jpg",
+						"https://namasons.com/wp-content/uploads/4086/pot-seeds-for-sell-5e9da3405a7da.jpg"
+					]
+					}
+				],
+				"Icon": "../assets/seedingStageFinal.jpg"
+			},		
+			{"Stage": "Sprouting Stage",
+				"Time": 14,
+				"Tasks": [
+					{
+					"Number": 1,
+					"Heading": "Understanding The Roots",
+					"Description": "Roots are an essential part of the plant life-cycle. Without the roots, there would be no way for the plant to absorb water and get it up to the leaves. Most roots are located underground though some remain above the ground a little. Roots help with the process of photosynthesis by bringing more water to the plant after photosynthesis uses some of the plant's water. The water is absorbed through the root hairs. Roots also hold the plant tightly in the ground and keep the soil from being washed away.\n\n There are 3 different types of roots: taproots, fibrous roots, and prop roots. Each one has it's own purpose in making a healthy plant/environment.\n \n Taproots are used to reach deep into the ground to soak up water that can be used for photosynthesis. Prop roots are used to keep a plant \"propped up\" even in high winds. Because some of their roots are above ground, the plants will need a lot of water to keep in top form. Fibrous roots are probably the most useful to both the plant and to the environment. They keep soil from washing away and help hillsides to stay intact. Grasses and trees are probably the most useful of these types of roots.",
+					"Pictures": [
+						"https://mir-s3-cdn-cf.behance.net/project_modules/disp/4d2cca13665729.562769ef7f2f6.jpg",
+						"https://www.cotton.org/tech/ace2/images/growth-fig-3_1.jpg"
+					]
+					},
+					{
+					"Number": 2,
+					"Heading": "Seal Moisture With Plastic",
+					"Description": "Seeds are very vulnerable to over- and under-watering. A layer of plastic wrap or a plastic bag seals will often keep the mix moist until the seeds have germinated.\n Most seed trays from garden supply centers come with a plastic cover to keep in moisture. If your seed trays did not come with a cover, then you can make a miniature greenhouse instead, or grow seedlings in an old, covered aquarium.",
+					"Pictures": [
+						"https://www.rainbowgardens.biz/wp-content/uploads/2016/04/IMG_4942.jpg"
+					]
+					},
+					{
+					"Number": 3,
+					"Heading": "Check Moisture Every Day.",
+					"Description": "If the mix looks dry, place the container in a container of water. The mix will absorb water from the base of the container.[13] This is less risky than watering from above, which can wash away the seeds or overwater them.\n As mentioned before, the plastic is often enough to retain moisture for the whole germination period. This is just a backup.",
+					"Pictures": [
+						"https://www.nydailynews.com/resizer/VSDDCFekZyzqGSfvB9hJiHc19Dg=/1200x800/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/UP4OQJRZQJCPHCVJFZCDNBLRYY.jpg",
+						"https://centennialinc.com/wp-content/uploads/sites/2/2018/03/Young-plant-getting-watered-e1520443707788.jpg"
+					]
+					}
+				],
+				"Icon": "../assets/sproutStageFinal.jpg"
+			},
+			{"Stage": "Vegetative Stage",
+				"Time":"21",
+				"Tasks":[
+					{
+						"Number":"1",
+						"Heading":"Provide Water",
+						"Description":"Water plants when top inch of soil feels dry to the touch. In containers, make sure water can drain freely out the bottom. In a hydro setup, there will always be plenty of water",
+						"Pictures":["https://usercontent1.hubstatic.com/9049216_f520.jpg","https://s3.eu-west-2.amazonaws.com/growinginteractive/blog/foliar-feeding-2x.jpg"]
+					},
+					{
+						"Number":"2",
+						"Heading":"Nutrients",
+						"Description":"If providing nutrients, start using the included nutrient schedule at ½ strength, and only raise to higher levels of nutrients if needed. Simply add the directed amount nutrients to your water before giving it to plants or adding to reservoir. Manage pH levels if using liquid nutrients.",
+						"Pictures":["https://images-na.ssl-images-amazon.com/images/I/61iNLVLK4RL._AC_SX522_.jpg","https://arizonadailyindependent.com/wp-content/uploads/2019/11/tomatos-450x300.jpg"]
+					},
+					{
+						"Number":"3",
+						"Heading":"Provide light",
+						"Description":"Use your vegetative grow light as directed. Simply turn grow lights on and keep at the recommended distance from the top of your plants. Outdoors plants will continue vegetating until days start growing short. Indoors plants will stay in the vegetative stage as long as they’re getting 18+ hours of light a day",
+						"Pictures":["https://thumbs.dreamstime.com/b/seedling-grow-led-plant-light-farm-greenhouse-growth-lamp-used-facility-agriculture-vertical-indoor-planting-factory-124144255.jpg","https://news.californialightworks.com/wp-content/uploads/2019/11/IMG_6844-1-1000x709.jpg"]
+					},
+					{
+						"Number":"4",
+						"Heading":"Air circulation",
+						"Description":"Make sure tomatoes gets a constant supply of fresh air so plants get the CO2 they need to grow, and keep air moving so there are no hot spots and leaves are always moving/rustling. Outdoors you may want to put up wind breaks if it gets too windy so plants aren’t being waved around",
+						"Pictures":["https://farm-energy.extension.org/wp-content/uploads/2019/04/Horizontal_air_flow_fans.jpg","https://oriana.life/wp-content/uploads/2019/12/Oriana_Static_Air.png"]
+					}
+				],
+				"Icon":"../assets/vegetativeStageFinal.jpg"
+			},
+			{"Stage": "Budding Stage",
+				"Time":"28",
+				"Tasks":[
+					{
+						"Number":"1",
+						"Heading":"Change lighting cycle",
+						"Description":"There are a few things you need to do once the flowers have turned into buds. The first thing is to change the lighting cycle from 18 hours on, 6 hours off to 12 hours on, 12 hours off. This signals the plant that the days are getting shorter, which mimics the autumn sun in the wild. The plants know from this change that the budding stage has started and will grow as such.",
+						"Pictures":["https://harvesttotable.com/wp-content/uploads/2009/04/Tomatoes-pruned-to-a-single-stake1.jpg","https://gardenhelpful.com/wp-content/uploads/2020/03/Best-Fertilizer-for-Tomatoes.jpg"]
+					},
+					{
+						"Number":"2",
+						"Heading":"Proper Temperature",
+						"Description":"You want to keep temperatures warmer than 68°F (20°C) (to avoid diseases like bud rot) but no higher than 80ºF (26.6ºC). It’s important to maintain ideal temperatures for good flowering.",
+						"Pictures":["https://www.growweedeasy.com/wp-content/uploads/2010/10/temperature-monitor-grow-room.jpg"]
+					},
+					{
+						"Number":"3",
+						"Heading":"Feeding",
+						"Description":"Once your plants have begun budding it is recommended that you feed them twice daily if you can swing it. If you own a PPM (parts per million) meter you’ll see that your plants have doubled their nutritional needs and as such have to be fed twice a day or harmful salts will build up quickly in your nutrient solution. It is also recommended that you feed your plants pH balanced neutral water once a week. This gently leaches the salts out of the root ball. No hit in growth is taken by feeding with only water once a week.",
+						"Pictures":["https://www.loveyourlandscape.org/media/19968/woman-gardener-fertilizing-young-cherry-tree-000043533000_large.jpg","https://geneticliteracyproject.org/wp-content/uploads/2017/05/32.jpeg"]
+					}
+				],
+				"Icon":"../assets/buddingStageFinal.jpg"				
+			},
+			{"Stage": "Fruiting Stage",
+				"Time":"7",
+				"Tasks":[
+					{
+						"Number":"1",
+						"Heading":"Fruit Development",
+						"Description":"`After fruit setting, fruit ripens over a period of 45 - 70 days, depending upon the cultivar, climate and growth conditions. The fruit continues growing until the stage of green ripeness. Three fruit developmental stages are noted. Ripening occurs as the fruit changes color from light green to off-white, pink, red, and finally dark red or orange. Depending on the distance and time to market, harvest may occur anytime between the pink to dark red stage, the later stages producing more flavorful fruit.",
+						"Pictures":["http://www.haifa-group.com/files/Guides/tomato/Tomato12.png","http://www.haifa-group.com/files/Guides/tomato/Tomato15.png"]
+					}
+				],
+				"Icon":"../assets/fruitingStageFinal.jpg"
+			},
+			{"Stage":"Ripening Stage",
+				"Time":"14",
+				"Tasks":[
+					{
+						"Number":"1",
+						"Heading":"Optimal Temperature",
+						"Description":"he optimal temperature range for tomato ripening is 68°F to 77°F; tomato ripening is slowed when temperatures are cooler or warmer than the optimum range. Tomatoes stop ripening when temperatures are less than 55°F and greater than 85°F. Once a mature green tomato has begun to blush or turn color, it can be brought to full color or full ripeness off the vine at room temperature–70°F to 75°F. A tomato will be equally flavorful brought to full ripeness on or off the vine–once it has moved beyond “mature green” to color change.",
+						"Pictures":["https://morningchores.com/wp-content/uploads/2017/03/6-Easy-Methods-Explaining-How-to-Ripen-Tomatoes-Faster-Facebook-1.jpg","https://gardenerspath.com/wp-content/uploads/2020/05/How-to-Make-Tomatoes-Red-FB.jpg"]
+					},
+					{
+						"Number":"2",
+						"Heading":"Harvest Daily",
+						"Description":"Pick fruit as soon as it starts to show color; this will allow other fruit on the vine to gain size and come to harvest more quickly. Tomato fruit picked at first sign of color can be ripened at room temperature. Fruit ripened off the vine will be just as tasty as those left to mature on the vine. Cut or gently twist off fruits supporting the vine at the same time. Don’t leave overripe fruits on the vine; they decrease productivity and may spread disease",
+						"Pictures":["https://cdn.images.express.co.uk/img/dynamic/13/590x/tomato-427172.jpg","https://techgenez.com/wp-content/uploads/2018/01/tomatoe.jpg"]
+					},
+					{
+						"Number":"3",
+						"Heading":"Remove flower clusters",
+						"Description":"Pluck new flower clusters from tomato plants that have already set fruit. Removing flowers will direct the plant’s energy into ripening the fruit already maturing on the vine. Remove flower clusters no later than a month before the first expected frost to ensure fruit on the plant makes it to harvest without frost or cold damage.",
+						"Pictures":["https://nitrocdn.com/KNsxZccKvkWJLbGRYQzriKQKzwEJQgHw/assets/static/optimized/rev-e28a4c7/wp-content/uploads/2015/10/22125936/tomato-sucker.jpg","https://i.pinimg.com/originals/2a/fb/6b/2afb6b9e1a4d1900036c1d22d24afd4e.jpg"]
+					},
+					{
+						"Number":"4",
+						"Heading":"Remove small or excess fruit",
+						"Description":"Pick small or excess fruit off of the tomato plant. Removing immature fruit or fruit you will not use will allow the plant to divert energy into ripening larger, already maturing fruit. Tomatoes that reach “mature green” size and have their first blush of color can be ripened off the vine at room temperature.",
+						"Pictures":["https://cdn.pixabay.com/photo/2018/08/14/21/20/tomatoes-3606653_960_720.jpg","https://empressofdirt.net/wp-content/uploads/C9-Mature-Tomato-Seeds-D1.jpg"]
+					},
+					{
+						"Number":5,
+						"Heading":"Protect plants from extreme temperatures",
+						"Description":"hield plants from temperatures outside the optimum range; wrap cages with clear plastic or frost blankets to protect plants from temperatures below 60°F; drape shade cloth over frames to protect tomatoes from harsh sun and temperatures greater than 90°F. Temperature extremes will slow and even halt fruit maturation and ripening. If fruits have begun to turn color, pick them and finish ripening indoor at temperatures between 70°F and 75°F.",
+						"Pictures":["https://www.bioadvanced.com/sites/default/files/2018-06/Cold-Snap%20Care_0.jpg","https://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2013/11/15/0/CI_frost-cover-with-hoops-8586795-1.jpg.rend.hgtvcom.1280.1707.suffix/1452647220415.jpeg"]
+					}
+				],
+				"Icon":"../assets/ripeningStageFinal.jpg"				
+			}
+		]
+	},
+	{"Name":"Maize",
+		"Stages":[
+			{"Stage":"Seedling Stage",
+				"Time":"7",
+				"Tasks":[
+					{
+						"Number":"1",
+						"Heading":"Corn Seedling",
+						"Description":"Each leaf stage is defined according to the uppermost leaf whose leaf collar is visible. The first part of the collar that is visible is the back, which appears as a discolored line between the leaf blade and leaf sheath. The characteristically oval-shaped first leaf is a reference point for counting upward to the top visible leaf collar",
+						"Pictures":["https://assets.corteva.com/is/image/dpagco/v3-corn-plant"]
+					}
+				]
+			},
+			{"Stage":"Sprouting Stage",
+				"Time":"7",
+				"Tasks":[
+					{
+						"Number":"1",
+						"Heading":"Staging Larger Plants",
+						"Description":" To determine the leaf stage after lower leaf loss, split the lower stalk lengthwise and inspect for the internode elongation. The first node above the first elongated stalk internode generally is the fifth leaf node. This internode is usually a little less than 1/2 inch in length. This fifth leaf node may be used as a replacement reference point for counting to the top leaf collar.",
+						"Pictures":["https://assets.corteva.com/is/image/dpagco/corn-staging-after-v6","https://cropchatter.com/wp-content/uploads/2015/05/Corn-Plant-Staging.png"]
+					},
+					{
+						"Number":"2",
+						"Heading":"Plant Height",
+						"Description":"Corn height is generally defined as “free standing” or the height of the arch of the highest leaf that is at least 50% developed. Corn height is less accurate than leaf number in determining growth stage.",
+						"Pictures":["https://www.researchgate.net/profile/Lucas_Amaral/publication/236154130/figure/fig1/AS:299360626724868@1448384543219/Sugarcane-height-measurement.png","https://www.mississippi-crops.com/wp-content/uploads/2011/04/V5_GrowthStages5.png"]
+					}
+				]
+			},
+			{"Stage":"Vegetative Stage",
+				"Time":"21",
+				"Tasks":[
+					{
+						"Number":"1",
+						"Heading":"Emergence Vegetative Stage",
+						"Description":"Most of the development in this stage is under the surface of the soil and hence may not be visible. This is the stage when the plant’s root system is formed. The emergence stage is confirmed when the first leaf or the ‘coleoptile’ leaf with collar becomes visible.",
+						"Pictures":["https://ak.picdn.net/shutterstock/videos/10039226/thumb/1.jpg","https://ak.picdn.net/shutterstock/videos/10223948/thumb/1.jpg"]
+					},
+					{
+						"Number":"2",
+						"Heading":"The Last Leaf Stage",
+						"Description":"The leaf stage consists of several stages at the time of emergence of the leaves of the plant. Each stage has its own significance and this stage is complete when the plant has (n) number of leaves with their collars visible.",
+						"Pictures":["https://sites.udel.edu/agronomy/files/2019/05/May22_Cornstages.jpg"]
+					},
+					{
+						"Number":"3",
+						"Heading":"Tasseling stage",
+						"Description":"This stage takes place when the plant reaches its full height and begins to shed its pollen. At this point the tassels of the plant are completely visible. Tassels emerge fully about 2 to 3 days prior to the silking stage. Hail damage is most significant at tasseling and can result in 100% yield loss if the tassel is lost.",
+						"Pictures":["https://www.researchgate.net/profile/Larissa_Canilha/publication/233949726/figure/fig2/AS:213910767575042@1428011709805/The-sugarcane-plant-morphology-Adapted-from-9.png"]
+					}
+				]
+			},
+			{"Stage":"Fruiting Stage",
+				"Time":"35",
+				"Tasks":[
+					{
+						"Number":"1",
+						"Heading":"Silking",
+						"Description":"About 2 to 3 days after the tasseling stage, the silking stage begins. Thready strands called silks start to emerge and become visible. This is one of the most critical stages in the development of the corn crop. The silks capture fallen pollen grains which then start to grow down the silks, later becoming the beginnings of the corn kernels.",
+						"Pictures":["https://www.agry.purdue.edu/ext/corn/news/timeless/images/R1-20120704-002e.jpg"]
+					},
+					{
+						"Number":"2",
+						"Heading":"Blistering",
+						"Description":"This stage is observed about 10 -15 days after the silking stage. The pollen grains which had been growing down the silks now form small blister-like kernels, white in colour and containing a clear, watery fluid. At this stage, the silks will start becoming dryer and brown in colour. Starch begins to accumulate in the kernels.",
+						"Pictures":["https://freshforkmarket.com/wp-content/uploads/2016/04/countdown_2_sweet_corn-e1460564960402.jpg"]
+					},
+					{
+						"Number":"3",
+						"Heading":"Milk",
+						"Description":"At this stage of the reproductive growth process, the corn kernels begin to turn yellow in colour with a milky fluid on the inside. The milk stage starts approximately 20 days after the silking stage.",
+						"Pictures":["https://site.extension.uga.edu/wilcoxcoag/files/2018/07/D583C751-0C93-471A-BD48-2E3C5F607D16.jpeg","https://extension.entm.purdue.edu/pestcrop/2010/issue17/graphic/agron9.jpg"]
+					},
+					{
+						"Number":"4",
+						"Heading":"Dent",
+						"Description":"The dent stage occurs about 36 days after the silking stage. The kernels will now begin to dry up and take on a dented appearance.",
+						"Pictures":["https://www.mississippi-crops.com/wp-content/uploads/2014/06/Dent_Ear2.jpg"]
+					}
+				]
+			},
+			{"Stage":"Ripening Stage",
+				"Time":"49",
+				"Tasks":[
+					{
+						"Number":"1",
+						"Heading":"Physiological Maturity",
+						"Description":"This is the final stage in the corn growth process, which occurs approximately 55 days after the silking stage. At this stage, all the kernels have achieved their full dry weight, the husks and leaves start to brown and the black layer stage appears with the progression of the starch to the base of the kernel.",
+						"Pictures":["https://5.imimg.com/data5/LD/FB/MY-62178184/grain-maize-500x500.jpg","https://opsdiagnostics.com/images/cornkernel2.JPG"]
+					},
+					{
+						"Number":"2",
+						"Heading":"Care",
+						"Description":"The corn plant requires adequate care and nutrition at all stages of its growth, particularly during the vegetative stages, as any damage during these stages can hinder the growth of the entire crop.",
+						"Pictures":["https://ak.picdn.net/shutterstock/videos/13805996/thumb/4.jpg"]
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,38 @@
+/*let Stages = [
+	{
+		Stage:'Sprouting Stage',
+		Time:14,
+		Tasks:SproutTasks,
+		Icon:'../assets/sproutStageFinal.jpg'
+	},
+	{                    
+		Stage:'Seedling Stage',
+		Time:21,
+		Tasks:SeedlingTasks,
+		Icon:'../assets/seedingStageFinal.jpg'
+	},
+	{    
+		Stage:'Vegetative Stage',
+		Time:21,
+		Tasks:[],
+		Icon:'../assets/vegetativeStageFinal.jpg'
+	},
+	{
+		Stage:'Budding Stage',
+		Time:28,
+		Tasks:[],
+		Icon:'../assets/buddingStageFinal.jpg'
+	},
+	{
+		Stage:'Fruiting Stage',
+		Time:7,
+		Tasks:[],
+		Icon:'../assets/fruitingStageFinal.jpg'
+	},
+	{
+		Stage:'Ripening Stage',
+		Time:14,
+		Tasks:[],
+		Icon:'../assets/ripeningStageFinal.jpg'
+	}
+]*/

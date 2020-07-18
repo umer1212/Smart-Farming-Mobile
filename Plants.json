@@ -1,0 +1,34 @@
+[
+	{
+        "Name":"Apple",
+        "SowingDate":"",
+        "HasAdvisory":false,
+        "AdvisoryRequested":false,
+        "Icon":"https://img.freepik.com/free-vector/hand-drawn-apple-fruit-illustration_53876-2980.jpg",
+        "Seasons":["Spring,Summer,Fall"]
+	},
+	{	
+        "Name":"Orange",
+        "SowingDate":"",
+        "HasAdvisory":false,
+        "AdvisoryRequested":false,
+        "Icon":"https://img.freepik.com/free-vector/hand-drawn-colorful-orange-illustration_53876-2977.jpg",
+        "Seasons":["Spring,Summer,Autumn,Winter"]
+	},
+	{
+        "Name":"Tomato",
+        "SowingDate":"6/1/2020",
+        "HasAdvisory":true,
+        "AdvisoryRequested":true,
+        "Icon":"https://image.flaticon.com/icons/png/512/123/123223.png",
+        "Seasons":["Spring,Summer,Autumn,Winter"]
+	},
+	{
+        "Name":"Maize",
+        "SowingDate":"",
+        "HasAdvisory":true,
+        "AdvisoryRequested":true,
+        "Icon":"https://image.flaticon.com/icons/png/512/123/123237.png",
+        "Seasons":["Spring"]
+	}
+]
